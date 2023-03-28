@@ -85,7 +85,7 @@ print(f"Necesitarás de aproximadamente {pomodoro} pomodoros para completar tu a
 
 ## Docstring
 
-La función **`pomodoro_timer_calculator()`**cuenta con un Docstring que explica el objetivo de la función y tiene una pequeña prueba con el módulo `doctest`:
+La función `pomodoro_timer_calculator()` cuenta con un Docstring que explica el objetivo de la función y tiene una pequeña prueba con el módulo `doctest`:
 
 ```python
 """ Calcula la cantidad de pomodoros necesarios para una actividad
