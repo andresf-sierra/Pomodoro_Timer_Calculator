@@ -3,6 +3,9 @@
 ---
 
 # Calculadora de Pomodoros
+### Platzi Master Review: (4/5)
+_"Buena codificación. Buena eleccion de tema.
+El uso de los ciclos y el input que toca realizar al que realiza la actividad"_
 
 ## Instrucciones
 
